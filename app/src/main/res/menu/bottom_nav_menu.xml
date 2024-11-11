@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_campusicon"
+        android:title="Campus" />
+    <item
+        android:id="@+id/nav_resources"
+        android:icon="@drawable/ic_resourcesicon"
+        android:title="Resources" />
+    <item
+        android:id="@+id/nav_foryou"
+        android:icon="@drawable/ic_foruicon"
+        android:title="For You" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profileicon"
+        android:title="Profile" />
+</menu>

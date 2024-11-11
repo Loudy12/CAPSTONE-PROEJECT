@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="120dp"
+    android:background="@drawable/rounded_card"
+    android:orientation="horizontal"
+    android:padding="6dp">
+
+
+    <Button
+        android:id="@+id/saved_button"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_marginVertical="12dp"
+        android:drawableStart="@drawable/ic_bookmark"
+        android:text="@string/saved" />
+
+    <Button
+        android:id="@+id/clubs_groups_button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginVertical="12dp"
+        android:drawableStart="@drawable/ic_groups"
+        android:text="@string/clubs_and_groups" />
+
+</LinearLayout>

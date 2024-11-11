@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">seniorcapstoneappfe</string>
+    <string name="username">Username</string>
+    <string name="welcome_to_the_university_of_tampa_app">Welcome to the University of Tampa App</string>
+    <string name="firstname_lastname">Firstname Lastname</string>
+    <string name="for_you">For You</string>
+    <string name="password">Password</string>
+    <string name="first_name_last_name">First Name Last Name</string>
+    <string name="firstname_lastname_spartans_ut_edu">firstName.lastName@spartans.ut.edu</string>
+    <string name="actions">Actions</string>
+    <string name="saved">Saved</string>
+    <string name="clubs_and_groups">Clubs and Groups</string>
+    <string name="meal_swipes">Meal Swipes:</string>
+    <string name="_7_meal_swipes_remaining">7 meal swipes remaining</string>
+    <string name="spartan_dollars">Spartan Dollars:</string>
+    <string name="xxx_xx">$XXX.XX</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="utampalogo">UTAMPALOGO</string>
+    <string name="section_title">Profile</string>
+    <string name="home">Home</string>
+    <string name="for_you_section">For You Section</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="john_doe">John Doe</string>
+    <string name="example_email">john.doe@spartans.ut.edu</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="campus">Campus</string>
+    <string name="resources">Resources</string>
+    <string name="profile">Profile</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_red">#C8102E</color>
+    <color name="custom_brown">#685C53</color>
+    <color name="custom_steel">#A2AAA9</color>
+    <color name="custom_silver">#D0D3D4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="defaultBackground">#F0F0F0</color>
+    <color name="defaultCardBackground">#F3DCDC</color>
+    <color name="black">#000000</color>
+</resources>

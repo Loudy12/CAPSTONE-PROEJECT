@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Spartan ID image layer that fills the entire space -->
+    <item>
+        <bitmap
+            android:src="@drawable/spartanid"
+            android:gravity="fill"
+            />
+    </item>
+
+    <!-- Rounded shape with border on top -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="12dp"/>
+
+
+        </shape>
+    </item>
+
+</layer-list>

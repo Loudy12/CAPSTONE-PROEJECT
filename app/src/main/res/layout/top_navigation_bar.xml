@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:orientation="horizontal"
+    android:background="@color/defaultCardBackground"
+    android:gravity="center_vertical"
+    android:paddingHorizontal="16dp">
+
+    <!-- Back Arrow Icon -->
+    <ImageView
+        android:id="@+id/back_arrow"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_back"
+        android:contentDescription="Back"
+        app:tint="@android:color/white" />
+
+    <!-- Section Title -->
+    <TextView
+        android:id="@+id/section_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="Section Title"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:layout_weight="1" />
+
+    <!-- Notifications Icon -->
+    <ImageView
+        android:id="@+id/notifications_icon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_bell"
+        android:contentDescription="Notifications"
+        app:tint="@android:color/white" />
+</LinearLayout>
